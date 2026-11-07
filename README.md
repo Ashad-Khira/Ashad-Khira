@@ -6,7 +6,7 @@
 I build backend services, web scraping systems, and automation pipelines in Python, and I lead a small team that ships them. I enjoy hard data sources, clean architecture, and systems that stay reliable under load.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashad.dev-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashad.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashad-khira-b4a9161bb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashad-khira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashadkhira@gmail.com)
 
 ---
